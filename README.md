@@ -23,6 +23,7 @@
 
 ### US Department of State (US Embassy)
 [https://step.state.gov/STEPMobile/Default.aspx](https://step.state.gov/STEPMobile/Default.aspx)
+* This site is janky on a computer, try a phone or tablet
 * Create new account if you don't have one
 * Add a trip for Zambia (3/25/2024 - 4/10/2024)
   * Add Lusaka Address: Farm 197a, Lusaka West
