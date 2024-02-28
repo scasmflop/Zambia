@@ -19,7 +19,7 @@
   * Ministry or Organization Name: I Will Go Missions - Zambia
   * Primary Destination: Zambia
   * Ministry or Organization Website: https://iwillgozambia.weebly.com/
-* You will be emailed your insurance documents, you need to email these pdfs to Chelsea Martinez <chelseagm22@gmail.com>
+* You will be emailed your insurance documents, you need to email these pdfs *as well as the pdf of your flight itenerary* to Chelsea Martinez <chelseagm22@gmail.com>
 
 ### US Department of State (US Embassy)
 [https://step.state.gov/STEPMobile/Default.aspx](https://step.state.gov/STEPMobile/Default.aspx)
